@@ -1,4 +1,4 @@
-<h3>Sintaxe - Desafio DIO</h3>
+<h3>Sintaxe - Desafio DIO - Conta Bancária</h3>
 
 Crie o projeto ContaBanco que receberá dados via terminal contendo as características de conta em banco conforme atributos abaixo:
 <p>Dentro do projeto, crie a classe ContaTerminal.java para realizar toda a codificação do nosso programa.</p>
